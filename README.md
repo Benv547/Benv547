@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Benjamin%20Vignot&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20on%20my%20GitHub!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Benjamin%20Vignot&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Welcome%20on%20my%20GitHub!&descAlignY=58&descAlign=76.5)
